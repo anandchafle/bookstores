@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-24T18:34:06 IST" name="Suite" finished-at="2025-06-24T18:34:12 IST" duration-ms="5668">
+    <groups>
+    </groups>
+    <test started-at="2025-06-24T18:34:06 IST" name="Test" finished-at="2025-06-24T18:34:12 IST" duration-ms="5668">
+      <class name="BookStore.test.EndToEndBookStore">
+        <test-method is-config="true" signature="generateRandomUser()[pri:0, instance:BookStore.test.EndToEndBookStore@34e9fd99]" started-at="2025-06-24T18:34:07 IST" name="generateRandomUser" finished-at="2025-06-24T18:34:07 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateRandomUser -->
+        <test-method signature="userSignUp()[pri:1, instance:BookStore.test.EndToEndBookStore@34e9fd99]" started-at="2025-06-24T18:34:07 IST" name="userSignUp" finished-at="2025-06-24T18:34:11 IST" duration-ms="3782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userSignUp -->
+        <test-method signature="userLoginAPI(org.testng.ITestContext)[pri:2, instance:BookStore.test.EndToEndBookStore@34e9fd99]" started-at="2025-06-24T18:34:11 IST" name="userLoginAPI" finished-at="2025-06-24T18:34:11 IST" duration-ms="392" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7f9e8421]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLoginAPI -->
+        <test-method signature="createBookAPI(org.testng.ITestContext)[pri:3, instance:BookStore.test.EndToEndBookStore@34e9fd99]" started-at="2025-06-24T18:34:11 IST" name="createBookAPI" finished-at="2025-06-24T18:34:11 IST" duration-ms="73" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7f9e8421]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBookAPI -->
+        <test-method signature="getBookAPI(org.testng.ITestContext)[pri:4, instance:BookStore.test.EndToEndBookStore@34e9fd99]" started-at="2025-06-24T18:34:11 IST" name="getBookAPI" finished-at="2025-06-24T18:34:11 IST" duration-ms="75" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7f9e8421]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookAPI -->
+        <test-method signature="updateBookAPI(org.testng.ITestContext)[pri:5, instance:BookStore.test.EndToEndBookStore@34e9fd99]" started-at="2025-06-24T18:34:11 IST" name="updateBookAPI" finished-at="2025-06-24T18:34:11 IST" duration-ms="86" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7f9e8421]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBookAPI -->
+        <test-method signature="getBookByIdAPI(org.testng.ITestContext)[pri:6, instance:BookStore.test.EndToEndBookStore@34e9fd99]" started-at="2025-06-24T18:34:11 IST" name="getBookByIdAPI" finished-at="2025-06-24T18:34:11 IST" duration-ms="36" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7f9e8421]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookByIdAPI -->
+        <test-method signature="deleteBookAPI(org.testng.ITestContext)[pri:7, instance:BookStore.test.EndToEndBookStore@34e9fd99]" started-at="2025-06-24T18:34:11 IST" name="deleteBookAPI" finished-at="2025-06-24T18:34:12 IST" duration-ms="40" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7f9e8421]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBookAPI -->
+        <test-method signature="userSignUp_DuplicateEmail()[pri:8, instance:BookStore.test.EndToEndBookStore@34e9fd99]" started-at="2025-06-24T18:34:12 IST" name="userSignUp_DuplicateEmail" finished-at="2025-06-24T18:34:12 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userSignUp_DuplicateEmail -->
+        <test-method signature="userLogin_WrongPassword(org.testng.ITestContext)[pri:9, instance:BookStore.test.EndToEndBookStore@34e9fd99]" started-at="2025-06-24T18:34:12 IST" name="userLogin_WrongPassword" finished-at="2025-06-24T18:34:12 IST" duration-ms="355" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7f9e8421]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin_WrongPassword -->
+        <test-method signature="createBook_MissingName(org.testng.ITestContext)[pri:10, instance:BookStore.test.EndToEndBookStore@34e9fd99]" started-at="2025-06-24T18:34:12 IST" name="createBook_MissingName" finished-at="2025-06-24T18:34:12 IST" duration-ms="66" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7f9e8421]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBook_MissingName -->
+        <test-method signature="getBookByInvalidId(org.testng.ITestContext)[pri:11, instance:BookStore.test.EndToEndBookStore@34e9fd99]" started-at="2025-06-24T18:34:12 IST" name="getBookByInvalidId" finished-at="2025-06-24T18:34:12 IST" duration-ms="32" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7f9e8421]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookByInvalidId -->
+        <test-method signature="updateBookWithInvalidToken(org.testng.ITestContext)[pri:12, instance:BookStore.test.EndToEndBookStore@34e9fd99]" started-at="2025-06-24T18:34:12 IST" name="updateBookWithInvalidToken" finished-at="2025-06-24T18:34:12 IST" duration-ms="25" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7f9e8421]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBookWithInvalidToken -->
+      </class> <!-- BookStore.test.EndToEndBookStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
