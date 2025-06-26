@@ -1,4 +1,4 @@
-# 📚 BookStore Automation Project
+# 📚 Book Store API Automation Project
 
 This is a Java-based automation framework for testing a Book Store application's REST APIs. It uses **TestNG** for testing, **Maven** for dependency management, and **ExtentReports** for reporting.
 
