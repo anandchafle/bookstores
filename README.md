@@ -40,9 +40,10 @@ BookStore/
 
 ## 🔧 How to Run
 1. **Clone the repository**  
-````
+   ````
+  ```bash
    git clone https://github.com/anandchafle/bookstores.git
-````
+   ````
 
 2. **Navigate to the project**
 
