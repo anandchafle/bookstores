@@ -42,7 +42,7 @@ BookStore/
 
  
 🔧 How to Run
-1.	Clone the repository     :   git clone https://github.com/your-username/BookStore.git
+1.	Clone the repository     :   git clone https://github.com/anandchafle/bookstores/tree/master
 2.	Navigate to the project  :   cd BookStore
 3.	Build with Maven         :   mvn clean install
 4.	Run tests                :   mvn test
