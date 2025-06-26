@@ -25,11 +25,6 @@ This is a Java-based automation framework for testing a Book Store application's
 ---
 
 ## 📁 Project Structure
-BookStore/
-│ ├── main/java/... # Application logic
-│ └── test/java/... # Tests, payloads, utilities
-
-## 📁 Project Structure
 
 BookStore/
 ├── src/
@@ -44,33 +39,7 @@ BookStore/
 
 
 
-📚 BookStore Automation Project
-This project is a Java-based automation framework designed for testing a "Book Store" application. It uses TestNG for testing, Maven for build management, and ExtentReports for reporting.
- 
-🚀 Features
-•	Clean, modular project structure
-•	REST API automation with custom endpoints
-•	Separate classes for request payloads
-•	ExtentReports for test result visualization
-•	End-to-end test scenarios
- 
-🧰 Tech Stack
-•	Language: Java
-•	Framework: TestNG
-•	Build Tool: Maven
-•	Reports: ExtentReports
-•	IDE: Eclipse
- 
-📂 Project Structure
-bash
-CopyEdit
-BookStore/
-├── src/
-│   ├── main/java/...         # Application logic
-│   └── test/java/...         # Tests, payloads, utilities
-├── pom.xml                   # Maven config
-├── testng.xml                # TestNG suite
-├── Extent_Report.html        # Test report
+
  
 🔧 How to Run
 1.	Clone the repository     :   git clone https://github.com/your-username/BookStore.git
