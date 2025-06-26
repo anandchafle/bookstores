@@ -16,11 +16,11 @@ This is a Java-based automation framework for testing a Book Store application's
 
 ## 🧰 Tech Stack
 
-- **Language:** Java  
-- **Framework:** TestNG  
-- **Build Tool:** Maven  
-- **Reports:** ExtentReports  
-- **IDE:** Eclipse
+- **Language   :** Java  
+- **Framework  :** TestNG  
+- **Build Tool :** Maven  
+- **Reports    :** ExtentReports  
+- **IDE        :** Eclipse
 
 ---
 ## 📁 Project Structure   
