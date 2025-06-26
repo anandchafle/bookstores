@@ -74,7 +74,6 @@ After execution, open the `Extent_Report.html` file in your browser to view test
 
 For any issues, feel free to reach out via work.anandchafle01@gmail.com.
 
-```
 
 
 
