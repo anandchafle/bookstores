@@ -28,11 +28,11 @@ This is a Java-based automation framework for testing a Book Store application's
 
 BookStore/
 ├── src/
-│   ├── main/java/...         # Application logic
-│   └── test/java/...         # Tests, payloads, utilities
-├── pom.xml                   # Maven config
-├── testng.xml                # TestNG suite
-├── Extent\_Report.html        # Test report
+│   ├── main/java/BookStore/BookStore/         # Application logic
+│   └── test/java/BookStore/test/              # Tests, payloads, utilities
+├── pom.xml                                    # Maven config
+├── testng.xml                                 # TestNG suite
+├── Extent\_Report.html                        # Test report
 
 ````
 
