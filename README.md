@@ -10,7 +10,7 @@ This project is a TestNG-based API automation framework for testing a BookStore 
 -  End-to-End Scenarios
 -  Data-driven approach
 -  TestNG and Maven integrated
--  
+   
 ## Tech Stack
 
 - Java
