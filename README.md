@@ -23,19 +23,35 @@ This is a Java-based automation framework for testing a Book Store application's
 - **IDE:** Eclipse
 
 ---
-## 📁 Project Structure
-
-
+## 📁 Project Structure   
+  ``bash
+BookStore/
+├── src/
+│ ├── main/java/... # Application logic
+│ └── test/java/... # Tests, payloads, utilities
+├── pom.xml # Maven config
+├── testng.xml # TestNG suite
+├── Extent_Report.html # Test report 
 
 
 
 
  
-🔧 How to Run
-1.	Clone the repository     :   git clone https://github.com/anandchafle/bookstores/tree/master
-2.	Navigate to the project  :   cd BookStore
-3.	Build with Maven         :   mvn clean install
-4.	Run tests                :   mvn test
+
+---
+
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/anandchafle/bookstores.git
+
+2. **Navigate to the project
+ ```bash
+cd BookStore
+
+
+
+
  
 📑 Test Reports
 Open Extent_Report.html in a browser after running tests to view the results.
