@@ -23,11 +23,7 @@ This is a Java-based automation framework for testing a Book Store application's
 - **IDE:** Eclipse
 
 ---
-
 ## 📁 Project Structure
-
-BookStore/
-```├── src/
 
 
 
