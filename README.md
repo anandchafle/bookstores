@@ -29,6 +29,17 @@ BookStore/
 │ ├── main/java/... # Application logic
 │ └── test/java/... # Tests, payloads, utilities
 
+## 📁 Project Structure
+
+BookStore/
+├── src/
+│   ├── main/java/...         # Application logic
+│   └── test/java/...         # Tests, payloads, utilities
+├── pom.xml                   # Maven config
+├── testng.xml                # TestNG suite
+├── Extent_Report.html        # Test report
+
+
 
 
 
