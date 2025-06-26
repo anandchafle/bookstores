@@ -143,8 +143,6 @@ For issues or collaboration, contact: [work.anandchafle01@gmail.com](mailto:work
 
 ```
 
----
 
-✅ You can now paste this entire content into your `README.md` file and commit it.  
-It’ll render **beautifully on GitHub** — let me know if you want a version with a badge, GIF demo, or contributor section too!
-```
+
+
