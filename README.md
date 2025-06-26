@@ -26,7 +26,8 @@ This is a Java-based automation framework for testing a Book Store application's
 
 ## 📁 Project Structure
 BookStore/
-<pre> ``` BookStore/ ├── src/ │ ├── main/java/... # Application logic │ └── test/java/... # Tests, payloads, utilities ├── pom.xml # Maven config ├── testng.xml # TestNG suite ├── Extent_Report.html # Test report ``` </pre>
+│ ├── main/java/... # Application logic
+│ └── test/java/... # Tests, payloads, utilities
 
 
 
